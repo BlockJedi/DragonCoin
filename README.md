@@ -4,7 +4,7 @@ DragonCoin is an ERC-20 token contract built on Ethereum. It includes features s
 ### Installation  
   **Clone the repository:** 
  ```
- bash git clone https://github.com/your-username/DragonCoin.git 
+ bash git clone https://github.com/BlockJedi/DragonCoin 
  cd DragonCoin
   ```
   
